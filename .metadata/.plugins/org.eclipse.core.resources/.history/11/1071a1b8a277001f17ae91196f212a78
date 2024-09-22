@@ -17,7 +17,7 @@ public class TestAuto {
 		auto2.anio= 2021;
 		auto2.precio= 22000;
 		
-		//Se muestran los valores de los dos autos por 1consola
+		//Se muestran los valores de los dos autos por consola
 		System.out.println("----------------El Auto 1------------------");
 		System.out.println("El primer auto es de marca: "+auto1.marca);
 		System.out.println("El primer auto es del anio: "+auto1.anio);
