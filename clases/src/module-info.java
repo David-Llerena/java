@@ -4,5 +4,5 @@
 /**
  * 
  */
-module clases {
+module java {
 }
