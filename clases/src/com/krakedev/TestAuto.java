@@ -8,24 +8,24 @@ public class TestAuto {
 		Auto auto2=new Auto();
 		
 		//auto1 se modifican los valores
-		auto1.marca="Hyundai";
-		auto1.anio= 2022;
-		auto1.precio= 24000;
+		auto1.setMarca("Hyundai");
+		auto1.setAnio(2022);
+		auto1.setPrecio(24000);
 		
 		//auto2 se modifican los valores
-		auto2.marca="Kia";
-		auto2.anio= 2021;
-		auto2.precio= 22000;
+		auto2.setMarca("Kia");
+		auto2.setAnio(2021);
+		auto2.setPrecio(22000);
 		
 		//Se muestran los valores de los dos autos por 1consola
 		System.out.println("----------------El Auto 1------------------");
-		System.out.println("El primer auto es de marca: "+auto1.marca);
-		System.out.println("El primer auto es del anio: "+auto1.anio);
-		System.out.println("El primer auto tiene un precio de: "+auto1.precio);
+		System.out.println("El primer auto es de marca: "+auto1.getMarca());
+		System.out.println("El primer auto es del anio: "+auto1.getAnio());
+		System.out.println("El primer auto tiene un precio de: "+auto1.getPrecio());
 		System.out.println("----------------El Auto 2------------------");
-		System.out.println("El segundo auto es de marca: "+auto2.marca);
-		System.out.println("El segundo auto es del anio: "+auto2.anio);
-		System.out.println("El segundo auto tiene un precio de: "+auto2.precio);
+		System.out.println("El segundo auto es de marca: "+auto2.getMarca());
+		System.out.println("El segundo auto es del anio: "+auto2.getAnio());
+		System.out.println("El segundo auto tiene un precio de: "+auto2.getPrecio());
 	
 	}
 
