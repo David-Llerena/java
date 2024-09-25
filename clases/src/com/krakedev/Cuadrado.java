@@ -4,6 +4,11 @@ public class Cuadrado {
 	private int lado;
 	
 		
+	public Cuadrado(int lado) {
+		super();
+		this.lado = lado;
+	}
+
 	public int getLado() {
 		return lado;
 	}
