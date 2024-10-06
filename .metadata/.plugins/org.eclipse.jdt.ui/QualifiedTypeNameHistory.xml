@@ -2,4 +2,5 @@
 <qualifiedTypeNameHistroy>
     <fullyQualifiedTypeName name="com.krakedev.composicion.Direccion"/>
     <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
+    <fullyQualifiedTypeName name="com.clearminds.maquina.MaquinaDulces"/>
 </qualifiedTypeNameHistroy>
