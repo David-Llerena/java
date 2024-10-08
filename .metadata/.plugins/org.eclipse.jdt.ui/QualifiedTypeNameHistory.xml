@@ -4,4 +4,5 @@
     <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
     <fullyQualifiedTypeName name="com.clearminds.maquina.MaquinaDulces"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
