@@ -4,8 +4,13 @@
     <fullyQualifiedTypeName name="com.cmc.directorio.entidades.Telefono"/>
     <fullyQualifiedTypeName name="com.clearminds.maquina.MaquinaDulces"/>
     <fullyQualifiedTypeName name="com.clearminds.componentes.Celda"/>
-    <fullyQualifiedTypeName name="java.util.Date"/>
     <fullyQualifiedTypeName name="com.krakedev.estaticos.DiasSemana"/>
-    <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+    <fullyQualifiedTypeName name="java.io.File"/>
     <fullyQualifiedTypeName name="org.apache.logging.log4j.LogManager"/>
+    <fullyQualifiedTypeName name="com.krakedev.persistencia.utils.ConexionBDD"/>
+    <fullyQualifiedTypeName name="com.krakedev.persistencia.servicios.AdminPersonas"/>
+    <fullyQualifiedTypeName name="java.sql.Date"/>
+    <fullyQualifiedTypeName name="com.krakedev.persistencia.utils.Convertidor"/>
+    <fullyQualifiedTypeName name="org.apache.logging.log4j.Logger"/>
+    <fullyQualifiedTypeName name="java.util.Date"/>
 </qualifiedTypeNameHistroy>
